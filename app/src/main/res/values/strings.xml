@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZWidget</string>
+    <string name="widget_description">Ultra Widget for Android Tidiness &amp; Travel</string>
+    <string name="loading">Loading…</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_data">No data available</string>
+    <string name="currency_hint">Amount</string>
+    <string name="convert">Convert</string>
+</resources>

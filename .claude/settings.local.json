@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(adb devices)",
+      "Bash(adb kill-server)",
+      "Bash(adb start-server)",
+      "Bash(./gradlew build)",
+      "Bash(curl -L https://services.gradle.org/distributions/gradle-8.2-bin.zip -o gradle.zip)",
+      "Bash(./gradle-dist/bin/gradle build)",
+      "Bash(echo:*)",
+      "Bash(./gradle-dist/bin/gradle:*)",
+      "Bash(adb shell:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
